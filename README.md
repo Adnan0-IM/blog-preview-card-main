@@ -26,9 +26,10 @@ Users should be able to:
 ### Screenshot
 
 ![](./assets/images/Solution.jpg)
-### Screenshot
 
-With Hover effect.
+### Screenshot With Hover effect.
+
+
 ![](./assets/images/hover.jpg)
 
 ### Links
