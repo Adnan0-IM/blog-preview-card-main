@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Adnan0-IM/blog-preview-card-main](https://github.com/Adnan0-IM/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [ https://adnan0-im.github.io/blog-preview-card-main/]( https://adnan0-im.github.io/blog-preview-card-main/)
 
 ## My process
 
